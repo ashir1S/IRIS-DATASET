@@ -124,7 +124,7 @@ All models performed equally well on this dataset; however, **SVM** is often pre
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/iris-classification.git
+git clone https:https://github.com/ashir1S/IRIS-DATASET
 cd iris-classification
 
 # Create and activate virtual env (optional)
@@ -138,7 +138,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Open the notebook
-jupyter notebook IRIS_Analysis.ipynb
+jupyter notebook IRIS.ipynb
 ```
 
 ---
